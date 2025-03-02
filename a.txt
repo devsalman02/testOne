@@ -4,3 +4,5 @@ updated features:
 1. feature 1
 2. feature 2
 3. feature 3
+
+added a new line from new-branch
